@@ -10,3 +10,8 @@ var Script = 30; // 변수의 선언은 var 키워드로만 할 수 있으면 Va
 "JavaScript" // 문자열 리터럴
 "안녕하세요" // 문자열 리터럴
 true // 불리언 리터럴
+
+var firstVar = 10; // Camel Case 방식
+function my_first_func() { // Underscore Case 방식
+    var firstLocalVar = 20; // Camel Case 방식
+}
